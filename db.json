@@ -8,7 +8,8 @@
       "serial_number": "1234567890",
       "store": "PIO X",
       "order_date": "2023-11-25",
-      "status": "Asignado"
+      "status": "Asignado",
+      "status_id": 1
     },
     {
       "id": 2,
@@ -18,7 +19,8 @@
       "serial_number": "1234567890",
       "store": "PIO X",
       "order_date": "2023-11-25",
-      "status": "Asignado"
+      "status": "Asignado",
+      "status_id": 1
     },
     {
       "id": 3,
@@ -28,7 +30,8 @@
       "serial_number": "1234567890",
       "store": "PIO X",
       "order_date": "2023-11-25",
-      "status": "No Asignado"
+      "status": "No Asignado",
+      "status_id": 0
     }
   ]
 }
