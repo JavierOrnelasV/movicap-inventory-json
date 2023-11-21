@@ -1,0 +1,34 @@
+{
+  "inventory_index": [
+    {
+      "id": 1,
+      "brand": "Samsung",
+      "category": "Smartphone",
+      "name": "Galaxy S8",
+      "serial_number": "1234567890",
+      "store": "PIO X",
+      "order_date": "2023-11-25",
+      "status": "Asignado"
+    },
+    {
+      "id": 2,
+      "brand": "Samsung",
+      "category": "Smartphone",
+      "name": "Galaxy A10",
+      "serial_number": "1234567890",
+      "store": "PIO X",
+      "order_date": "2023-11-25",
+      "status": "Asignado"
+    },
+    {
+      "id": 3,
+      "brand": "Motorola",
+      "category": "Smartphone",
+      "name": "Moto G8",
+      "serial_number": "1234567890",
+      "store": "PIO X",
+      "order_date": "2023-11-25",
+      "status": "No Asignado"
+    }
+  ]
+}
